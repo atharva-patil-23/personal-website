@@ -1,0 +1,18 @@
+.profile-img{
+    border-radius: 50%;
+    
+}
+
+body{
+    background-color: #121212;
+}
+
+#bootstrap-font-override p{
+    font-size: 90px;
+}
+
+
+.lead{
+    color:white;
+    font-size: large;
+}
